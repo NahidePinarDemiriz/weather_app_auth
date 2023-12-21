@@ -2,7 +2,9 @@
 Authentication system for weather app
 ## Prerequisites
 install flask
+
 install Flask-SQLAlchemy
+
 install flask-login
 ## Running The App
 python main.py
