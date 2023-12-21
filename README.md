@@ -1,4 +1,4 @@
-### Authentication for Weather App
+# Authentication for Weather App
 Authentication system for weather app
 ## Prerequisites
 pip install flask
